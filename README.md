@@ -1,9 +1,8 @@
 # 👋 ¡Hola! Soy Roberto Sánchez
 
-**¿Qué hago?**  
-Desarrollador/a Full-Stack | Apasionado/a de la tecnología y el código  
-📍 Ubicación: Managua, Nicaragua
-🌱 Actualmente aprendiendo: PHP
+- **¿Qué hago?** Desarrollador/a Full-Stack | Apasionado/a de la tecnología y el código  
+- **📍 Ubicación:** Managua, Nicaragua  
+- **🌱 Actualmente aprendiendo:** PHP  
 
 
 ## 🛠️ Tecnologías & Herramientas  
