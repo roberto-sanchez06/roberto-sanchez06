@@ -36,5 +36,5 @@ Desarrollador/a Full-Stack | Apasionado/a de la tecnología y el código
 ---
 
 ### 📊 Mis estadísticas en GitHub  
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=TU_USUARIO&show_icons=true&theme=radical" alt="GitHub Stats" />
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=roberto-sanchez06&show_icons=true&theme=radical" alt="GitHub Stats" />
 
